@@ -1,6 +1,12 @@
+:root{
+    --color-fondo-seccion-reloj:#888888;
+    --color-texto-seccion-reloj:#FFFFFF;
+    --color-fondo-badge-seccion-reloj:#cdcdcd;
+    --color-texto-badge-seccion-reloj:#000000;
+}
 .section__controles{
     margin:0 auto;
-    background:#cbcbcb;
+    background:#D7D7D7;
     height: 80vh;
 }
 
@@ -9,13 +15,13 @@
 }
 
 .section__reloj{
-    color:#0D4D4D;
-    background:#669999;
+    color: var(--color-texto-seccion-reloj);
+    background: var(--color-fondo-seccion-reloj);
     border-radius:5px;
     padding:5px 5px;
 }
 
 .badge{
-    color:#003333;
-    background:#407f7f !important;
+    color:var(--color-texto-badge-seccion-reloj);
+    background: var(--color-fondo-badge-seccion-reloj) !important;
 }
