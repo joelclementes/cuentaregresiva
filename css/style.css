@@ -1,0 +1,21 @@
+.section__controles{
+    margin:0 auto;
+    background:#cbcbcb;
+    height: 80vh;
+}
+
+.contenedorbotones{
+    margin:0 auto;
+}
+
+.section__reloj{
+    color:#0D4D4D;
+    background:#669999;
+    border-radius:5px;
+    padding:5px 5px;
+}
+
+.badge{
+    color:#003333;
+    background:#407f7f !important;
+}

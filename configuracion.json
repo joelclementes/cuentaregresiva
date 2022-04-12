@@ -1,0 +1,17 @@
+[
+    {
+        "titulo":"PRESENTACIÓN",
+        "tituloBoton":"5 minutos",
+        "tiempo":5
+    },
+    {
+        "titulo":"PARTICIPACIÓN",
+        "tituloBoton":"20 minutos",
+        "tiempo":20
+    },
+    {
+        "titulo":"PREGUNTAS",
+        "tituloBoton":"10 minutos",
+        "tiempo":10
+    }
+]
